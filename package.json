@@ -1,0 +1,27 @@
+{
+  "name": "kozyro-vladimir-js-home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^24.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozyrovladimir/kozyro-vladimir-js-home.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozyrovladimir/kozyro-vladimir-js-home/issues"
+  },
+  "homepage": "https://github.com/kozyrovladimir/kozyro-vladimir-js-home#readme"
+}
